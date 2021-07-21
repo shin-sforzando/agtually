@@ -1,8 +1,8 @@
-# broad-boilerplate
+# agtually
 
 <!-- Badges -->
-[![broad-boilerplate](https://github.com/shin-sforzando/broad-boilerplate/actions/workflows/broad-boilerplate.yml/badge.svg)](https://github.com/shin-sforzando/broad-boilerplate/actions/workflows/broad-boilerplate.yml)
-[![Bump Version](https://github.com/shin-sforzando/broad-boilerplate/actions/workflows/bump-version.yml/badge.svg)](https://github.com/shin-sforzando/broad-boilerplate/actions/workflows/bump-version.yml)
+[![agtually](https://github.com/shin-sforzando/agtually/actions/workflows/push.yml/badge.svg)](https://github.com/shin-sforzando/agtually/actions/workflows/push.yml)
+[![Bump Version](https://github.com/shin-sforzando/agtually/actions/workflows/bump-version.yml/badge.svg)](https://github.com/shin-sforzando/agtually/actions/workflows/bump-version.yml)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -12,7 +12,7 @@
 |Screenshot 1|Screenshot 2|
 
 <!-- Synopsis -->
-**broad-boilerplate** is GitHub Template Repository for General Use.
+A platform that only **aggregates** reviews from people who have **actually** been there.
 
 <!-- TOC -->
 - [Prerequisites](#prerequisites)

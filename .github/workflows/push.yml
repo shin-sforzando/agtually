@@ -1,4 +1,4 @@
-name: broad-boilerplate
+name: push
 
 on:
   workflow_dispatch:
@@ -34,7 +34,7 @@ jobs:
         GPG_SECRET_PASSPHRASE: ${{secrets.GPG_SECRET_PASSPHRASE}}
     - name: Echo
       id: echo
-      run: echo "Hello broad-boilerplate" | tee echo.log
+      run: echo "Hello agtually" | tee echo.log
     - name: Upload artifacts
       uses: actions/upload-artifact@v2
       with:
